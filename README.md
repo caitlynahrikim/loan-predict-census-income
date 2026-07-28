@@ -3,8 +3,6 @@
 Predicting whether an individual's annual income exceeds $50,000 using 1994 U.S. Census
 data, to support automated eligibility screening for nonprofit lending programs.
 
-Full setup and usage docs live in [`docs/`](docs/) — see [Documentation](#documentation).
-
 ## Project Overview
 
 Frames income prediction as binary classification: given demographic and employment
@@ -69,7 +67,7 @@ pip install -r requirements.txt
 jupyter notebook capstone-project-code.ipynb
 ```
 
-Full instructions, including training and evaluation steps: [`docs/SETUP.md`](docs/SETUP.md).
+Full instructions, including training and evaluation steps: [`setup.md`](setup.md).
 
 ## Documentation
 
