@@ -73,9 +73,9 @@ Full instructions, including training and evaluation steps: [`setup.md`](setup.m
 
 | Document | Description |
 |---|---|
-| [`docs/SETUP.md`](docs/SETUP.md) | Local setup, dependencies, running the notebook. |
-| [`docs/USER_GUIDE.md`](docs/USER_GUIDE.md) | What each notebook section does. |
-| [`docs/API.md`](docs/API.md) | Reference for reusable functions and data schema. |
+| [`setup.md`](setup.md) | Local setup, dependencies, running the notebook. |
+| [`user-guide.md`](user-guide.md) | What each notebook section does. |
+| [`api-doc.md`](api-doc.md) | Reference for reusable functions and data schema. |
 | [`scripts/repro_viz.py`](scripts/repro_viz.py) | Standalone script reproducing the LR results and plots outside the notebook. |
 
 ## Potential Next Steps
@@ -89,7 +89,7 @@ Full instructions, including training and evaluation steps: [`setup.md`](setup.m
 ## Individual Contributions
 
 Completed individually as a course capstone. All EDA, data prep, modeling, tuning,
-evaluation, and analysis were done by the repository owner.
+evaluation, and analysis were done by the author.
 
 ## AI Use Attestation
 
