@@ -10,7 +10,7 @@ attributes, predict whether income is `<=50K` or `>50K`/year. The motivating sce
 fintech company (EquiLend) building a model for a CDFI to screen loan/financial-education
 applicants — one whose predictions the CDFI can explain to applicants.
 
-Dataset: `censusData.csv`, The 1994 U.S. Census dataset. 32,561 records, numeric features (age, education-num,
+Dataset: `censusData.csv` 32,561 records, numeric features (age, education-num,
 capital-gain/loss, hours-per-week) and categorical features (workclass, education,
 marital-status, occupation, relationship, race, sex, native-country), label
 `income_binary`.
